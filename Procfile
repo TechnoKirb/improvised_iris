@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run improved_iris.py
+web: sh setup.sh && streamlit run improvised_iris.py
